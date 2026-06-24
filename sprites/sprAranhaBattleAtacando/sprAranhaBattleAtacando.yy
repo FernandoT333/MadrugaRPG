@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprAranhaBattleAtacando",
   "bboxMode":0,
   "bbox_bottom":29,
@@ -12,11 +12,11 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"94d066aa-205b-4006-9b45-011de686d52f","name":"94d066aa-205b-4006-9b45-011de686d52f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"ee69571e-9bea-4ae6-91c7-2f6181254144","name":"ee69571e-9bea-4ae6-91c7-2f6181254144","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"d1eaa326-da06-47f6-8897-4cda7c2372dd","name":"d1eaa326-da06-47f6-8897-4cda7c2372dd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"a46e563a-6a3b-4194-a0e4-e7c67324202a","name":"a46e563a-6a3b-4194-a0e4-e7c67324202a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"10f7d8aa-73ea-4b0f-a9c5-ad3ca2d5b9a9","name":"10f7d8aa-73ea-4b0f-a9c5-ad3ca2d5b9a9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"94d066aa-205b-4006-9b45-011de686d52f","name":"94d066aa-205b-4006-9b45-011de686d52f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ee69571e-9bea-4ae6-91c7-2f6181254144","name":"ee69571e-9bea-4ae6-91c7-2f6181254144","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"d1eaa326-da06-47f6-8897-4cda7c2372dd","name":"d1eaa326-da06-47f6-8897-4cda7c2372dd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a46e563a-6a3b-4194-a0e4-e7c67324202a","name":"a46e563a-6a3b-4194-a0e4-e7c67324202a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"10f7d8aa-73ea-4b0f-a9c5-ad3ca2d5b9a9","name":"10f7d8aa-73ea-4b0f-a9c5-ad3ca2d5b9a9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -36,7 +36,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"sprAranhaBattleAtacando",
     "autoRecord":true,
     "backdropHeight":768,
@@ -72,21 +72,11 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"94d066aa-205b-4006-9b45-011de686d52f","path":"sprites/sprAranhaBattleAtacando/sprAranhaBattleAtacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"add82cdb-f0fb-4400-946d-8fd1d86cca21","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ee69571e-9bea-4ae6-91c7-2f6181254144","path":"sprites/sprAranhaBattleAtacando/sprAranhaBattleAtacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"93cf7fad-7d39-4aae-b5eb-e7053a3cfc01","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d1eaa326-da06-47f6-8897-4cda7c2372dd","path":"sprites/sprAranhaBattleAtacando/sprAranhaBattleAtacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"c8208069-7e65-4a83-8461-185d6afbf48e","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a46e563a-6a3b-4194-a0e4-e7c67324202a","path":"sprites/sprAranhaBattleAtacando/sprAranhaBattleAtacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"114ce08d-c25a-4511-a882-afd492679f23","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"10f7d8aa-73ea-4b0f-a9c5-ad3ca2d5b9a9","path":"sprites/sprAranhaBattleAtacando/sprAranhaBattleAtacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"e911acf6-6428-45f6-a560-7d783216acf8","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"94d066aa-205b-4006-9b45-011de686d52f","path":"sprites/sprAranhaBattleAtacando/sprAranhaBattleAtacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"add82cdb-f0fb-4400-946d-8fd1d86cca21","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"ee69571e-9bea-4ae6-91c7-2f6181254144","path":"sprites/sprAranhaBattleAtacando/sprAranhaBattleAtacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"93cf7fad-7d39-4aae-b5eb-e7053a3cfc01","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"d1eaa326-da06-47f6-8897-4cda7c2372dd","path":"sprites/sprAranhaBattleAtacando/sprAranhaBattleAtacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"c8208069-7e65-4a83-8461-185d6afbf48e","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"a46e563a-6a3b-4194-a0e4-e7c67324202a","path":"sprites/sprAranhaBattleAtacando/sprAranhaBattleAtacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"114ce08d-c25a-4511-a882-afd492679f23","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"10f7d8aa-73ea-4b0f-a9c5-ad3ca2d5b9a9","path":"sprites/sprAranhaBattleAtacando/sprAranhaBattleAtacando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"e911acf6-6428-45f6-a560-7d783216acf8","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"ModalConfirmacao",
   "isCompatibility":false,
   "isDnD":false,

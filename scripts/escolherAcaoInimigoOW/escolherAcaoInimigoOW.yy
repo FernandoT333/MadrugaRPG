@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"escolherAcaoInimigoOW",
   "isCompatibility":false,
   "isDnD":false,

@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"exibirItemObtido",
   "isCompatibility":false,
   "isDnD":false,

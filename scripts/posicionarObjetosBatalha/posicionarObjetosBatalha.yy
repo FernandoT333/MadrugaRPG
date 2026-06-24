@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"posicionarObjetosBatalha",
   "isCompatibility":false,
   "isDnD":false,

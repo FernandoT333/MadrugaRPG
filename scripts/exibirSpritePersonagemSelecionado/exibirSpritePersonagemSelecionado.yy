@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"exibirSpritePersonagemSelecionado",
   "isCompatibility":false,
   "isDnD":false,

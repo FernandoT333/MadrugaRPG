@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exibirDialogo",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exibirDialogo",
+  "parent":{
+    "name":"UI",
+    "path":"folders/Scripts/Overworld/UI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

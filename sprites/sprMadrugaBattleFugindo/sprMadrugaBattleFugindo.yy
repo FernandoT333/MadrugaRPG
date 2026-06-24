@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprMadrugaBattleFugindo",
   "bboxMode":0,
   "bbox_bottom":47,
@@ -12,12 +12,12 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"53408259-e117-4b2e-88fa-c0ac883ed667","name":"53408259-e117-4b2e-88fa-c0ac883ed667","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"32a985c0-044f-4807-b41a-d79f0d2e73b9","name":"32a985c0-044f-4807-b41a-d79f0d2e73b9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"93351a17-64a4-4ada-b8e8-e5cd9084c319","name":"93351a17-64a4-4ada-b8e8-e5cd9084c319","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"00b19675-1efa-4572-b837-076428a60da3","name":"00b19675-1efa-4572-b837-076428a60da3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"9da07976-73ed-46ad-a4d0-6583689dc1ff","name":"9da07976-73ed-46ad-a4d0-6583689dc1ff","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"d749e772-47e8-4002-ba40-79d99b3ad580","name":"d749e772-47e8-4002-ba40-79d99b3ad580","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"53408259-e117-4b2e-88fa-c0ac883ed667","name":"53408259-e117-4b2e-88fa-c0ac883ed667","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"32a985c0-044f-4807-b41a-d79f0d2e73b9","name":"32a985c0-044f-4807-b41a-d79f0d2e73b9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"93351a17-64a4-4ada-b8e8-e5cd9084c319","name":"93351a17-64a4-4ada-b8e8-e5cd9084c319","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"00b19675-1efa-4572-b837-076428a60da3","name":"00b19675-1efa-4572-b837-076428a60da3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"9da07976-73ed-46ad-a4d0-6583689dc1ff","name":"9da07976-73ed-46ad-a4d0-6583689dc1ff","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"d749e772-47e8-4002-ba40-79d99b3ad580","name":"d749e772-47e8-4002-ba40-79d99b3ad580","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -37,7 +37,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"sprMadrugaBattleFugindo",
     "autoRecord":true,
     "backdropHeight":768,
@@ -73,24 +73,12 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"53408259-e117-4b2e-88fa-c0ac883ed667","path":"sprites/sprMadrugaBattleFugindo/sprMadrugaBattleFugindo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"2585261f-fb98-420c-8dd4-dee91238b2d3","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"32a985c0-044f-4807-b41a-d79f0d2e73b9","path":"sprites/sprMadrugaBattleFugindo/sprMadrugaBattleFugindo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"dc67d2b2-c669-4ea6-b3d7-0c0cddf6e57c","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"93351a17-64a4-4ada-b8e8-e5cd9084c319","path":"sprites/sprMadrugaBattleFugindo/sprMadrugaBattleFugindo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"f01c54ae-c178-4bb5-9bbd-79981fb3625a","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"00b19675-1efa-4572-b837-076428a60da3","path":"sprites/sprMadrugaBattleFugindo/sprMadrugaBattleFugindo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"822fe92a-5c50-4b5a-a584-a034d4a9729a","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9da07976-73ed-46ad-a4d0-6583689dc1ff","path":"sprites/sprMadrugaBattleFugindo/sprMadrugaBattleFugindo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"951e189a-2712-449a-8b82-1e0005b2e108","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d749e772-47e8-4002-ba40-79d99b3ad580","path":"sprites/sprMadrugaBattleFugindo/sprMadrugaBattleFugindo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"45a2d4e0-25a4-41e0-8712-b22c811d648f","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"53408259-e117-4b2e-88fa-c0ac883ed667","path":"sprites/sprMadrugaBattleFugindo/sprMadrugaBattleFugindo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"2585261f-fb98-420c-8dd4-dee91238b2d3","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"32a985c0-044f-4807-b41a-d79f0d2e73b9","path":"sprites/sprMadrugaBattleFugindo/sprMadrugaBattleFugindo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"dc67d2b2-c669-4ea6-b3d7-0c0cddf6e57c","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"93351a17-64a4-4ada-b8e8-e5cd9084c319","path":"sprites/sprMadrugaBattleFugindo/sprMadrugaBattleFugindo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"f01c54ae-c178-4bb5-9bbd-79981fb3625a","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"00b19675-1efa-4572-b837-076428a60da3","path":"sprites/sprMadrugaBattleFugindo/sprMadrugaBattleFugindo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"822fe92a-5c50-4b5a-a584-a034d4a9729a","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"9da07976-73ed-46ad-a4d0-6583689dc1ff","path":"sprites/sprMadrugaBattleFugindo/sprMadrugaBattleFugindo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"951e189a-2712-449a-8b82-1e0005b2e108","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"d749e772-47e8-4002-ba40-79d99b3ad580","path":"sprites/sprMadrugaBattleFugindo/sprMadrugaBattleFugindo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"45a2d4e0-25a4-41e0-8712-b22c811d648f","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

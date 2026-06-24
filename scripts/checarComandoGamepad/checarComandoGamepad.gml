@@ -97,6 +97,14 @@ function checarComandoGamepad(){
 					with(objBau) {
 						abrirBau();
 					}
+                    
+					with(objFrisk) {
+						iniciarDialogo();
+					}
+                    
+					with(objDialogo) {
+						proximoTexto();
+					}
 				}
 				
 				

@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"exibirOpcoesMenuPause",
   "isCompatibility":false,
   "isDnD":false,

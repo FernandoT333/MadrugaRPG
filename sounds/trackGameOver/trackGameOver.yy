@@ -1,15 +1,17 @@
 {
-  "$GMSound":"",
+  "$GMSound":"v2",
   "%Name":"trackGameOver",
   "audioGroupId":{
     "name":"sngOST",
     "path":"audiogroups/sngOST",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "channelFormat":1,
   "compression":2,
+  "compressionQuality":4,
   "conversionMode":0,
   "duration":49.294647,
+  "exportDir":"",
   "name":"trackGameOver",
   "parent":{
     "name":"Musicas",
@@ -20,6 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"trackGameOver.ogg",
-  "type":1,
   "volume":1.0,
 }

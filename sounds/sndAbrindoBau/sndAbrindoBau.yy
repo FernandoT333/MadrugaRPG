@@ -1,15 +1,17 @@
 {
-  "$GMSound":"",
+  "$GMSound":"v2",
   "%Name":"sndAbrindoBau",
   "audioGroupId":{
     "name":"sfxOverworld",
     "path":"audiogroups/sfxOverworld",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "channelFormat":1,
   "compression":2,
+  "compressionQuality":4,
   "conversionMode":0,
   "duration":1.28,
+  "exportDir":"",
   "name":"sndAbrindoBau",
   "parent":{
     "name":"Overworld",
@@ -20,6 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"sndAbrindoBau.mp3",
-  "type":1,
   "volume":1.0,
 }

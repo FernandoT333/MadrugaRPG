@@ -1,15 +1,17 @@
 {
-  "$GMSound":"",
+  "$GMSound":"v2",
   "%Name":"sndItemObtido",
   "audioGroupId":{
     "name":"sfxUI",
     "path":"audiogroups/sfxUI",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "channelFormat":1,
   "compression":2,
+  "compressionQuality":4,
   "conversionMode":0,
-  "duration":2.115918,
+  "duration":2.0829933,
+  "exportDir":"",
   "name":"sndItemObtido",
   "parent":{
     "name":"UI",
@@ -20,6 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"sndItemObtido.mp3",
-  "type":1,
   "volume":1.0,
 }

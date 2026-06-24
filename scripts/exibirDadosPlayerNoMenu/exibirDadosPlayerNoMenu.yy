@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"exibirDadosPlayerNoMenu",
   "isCompatibility":false,
   "isDnD":false,

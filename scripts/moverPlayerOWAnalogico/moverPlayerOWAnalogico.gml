@@ -1,8 +1,9 @@
 function moverPlayerOWAnalogico(direcaoAnalogico) {
+		var emDialogo = global.emDialogo;
 		var obtendoItem = global.obtendoItem;
 		var emTransicao = global.emTransicao;
 		
-		if (!obtendoItem && !emTransicao) {
+		if (!obtendoItem && !emDialogo && !emTransicao) {
 			direcao = direcaoAnalogico;
 			var emMovimentoDPad = (baixo || cima || direita || esquerda);
 			

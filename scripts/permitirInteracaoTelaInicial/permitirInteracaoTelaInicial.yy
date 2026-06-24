@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"permitirInteracaoTelaInicial",
   "isCompatibility":false,
   "isDnD":false,

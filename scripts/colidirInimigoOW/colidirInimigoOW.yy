@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"colidirInimigoOW",
   "isCompatibility":false,
   "isDnD":false,

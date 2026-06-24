@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"aplicarDanoEmPlayerBatalha",
   "isCompatibility":false,
   "isDnD":false,

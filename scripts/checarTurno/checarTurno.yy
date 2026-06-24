@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"checarTurno",
   "isCompatibility":false,
   "isDnD":false,

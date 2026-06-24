@@ -1,15 +1,17 @@
 {
-  "$GMSound":"",
+  "$GMSound":"v2",
   "%Name":"vozApresentacao2",
   "audioGroupId":{
     "name":"sfxVozes",
     "path":"audiogroups/sfxVozes",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "channelFormat":1,
   "compression":2,
+  "compressionQuality":4,
   "conversionMode":0,
   "duration":0.466304,
+  "exportDir":"",
   "name":"vozApresentacao2",
   "parent":{
     "name":"Vozes",
@@ -20,6 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"vozApresentacao2.wav",
-  "type":1,
   "volume":1.0,
 }

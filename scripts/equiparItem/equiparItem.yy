@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"equiparItem",
   "isCompatibility":false,
   "isDnD":false,

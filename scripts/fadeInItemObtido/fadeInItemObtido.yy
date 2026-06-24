@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"fadeInItemObtido",
   "isCompatibility":false,
   "isDnD":false,

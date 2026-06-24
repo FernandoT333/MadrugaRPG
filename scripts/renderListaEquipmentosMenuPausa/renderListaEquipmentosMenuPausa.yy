@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"renderListaEquipmentosMenuPausa",
   "isCompatibility":false,
   "isDnD":false,

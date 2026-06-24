@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"exibirTextoLevelUP",
   "isCompatibility":false,
   "isDnD":false,

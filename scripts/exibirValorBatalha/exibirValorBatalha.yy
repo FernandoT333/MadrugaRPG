@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"exibirValorBatalha",
   "isCompatibility":false,
   "isDnD":false,

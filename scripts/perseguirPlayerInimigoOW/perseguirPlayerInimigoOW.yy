@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"perseguirPlayerInimigoOW",
   "isCompatibility":false,
   "isDnD":false,

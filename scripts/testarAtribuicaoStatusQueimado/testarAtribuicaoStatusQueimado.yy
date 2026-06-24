@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"testarAtribuicaoStatusQueimado",
   "isCompatibility":false,
   "isDnD":false,

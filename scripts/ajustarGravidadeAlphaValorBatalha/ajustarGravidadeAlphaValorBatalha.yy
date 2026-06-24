@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"ajustarGravidadeAlphaValorBatalha",
   "isCompatibility":false,
   "isDnD":false,

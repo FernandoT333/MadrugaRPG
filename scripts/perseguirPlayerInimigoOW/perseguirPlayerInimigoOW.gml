@@ -1,8 +1,9 @@
 function perseguirPlayerInimigoOW() {
+	var emDialogo = global.emDialogo;
 	var obtendoItem = global.obtendoItem;
 	var emTransicao = global.emTransicao;
 	
-	if (!obtendoItem && !emTransicao) {
+	if (!obtendoItem && !emDialogo && !emTransicao) {
 		image_speed = 1.5;
 		var velocidade = 1.3;
 		var raioDeFuga = 110;

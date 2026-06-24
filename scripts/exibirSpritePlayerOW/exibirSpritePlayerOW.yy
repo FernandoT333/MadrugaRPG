@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"exibirSpritePlayerOW",
   "isCompatibility":false,
   "isDnD":false,

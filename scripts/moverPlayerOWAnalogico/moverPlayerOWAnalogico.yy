@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"moverPlayerOWAnalogico",
   "isCompatibility":false,
   "isDnD":false,

@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"IniciarTurno",
   "isCompatibility":false,
   "isDnD":false,

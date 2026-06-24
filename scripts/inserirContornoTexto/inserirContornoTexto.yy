@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"inserirContornoTexto",
   "isCompatibility":false,
   "isDnD":false,

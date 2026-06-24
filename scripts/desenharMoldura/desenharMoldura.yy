@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"desenharMoldura",
   "isCompatibility":false,
   "isDnD":false,

@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"renderListaItensMenuBatalha",
   "isCompatibility":false,
   "isDnD":false,

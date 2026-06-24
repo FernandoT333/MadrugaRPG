@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprMadrugaBattlePuloPraTras",
   "bboxMode":0,
   "bbox_bottom":47,
@@ -12,9 +12,9 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"cc4d4c58-b152-41f0-b97e-dd193580ee19","name":"cc4d4c58-b152-41f0-b97e-dd193580ee19","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"e6e50ab9-3eae-4289-9ca9-43c771787835","name":"e6e50ab9-3eae-4289-9ca9-43c771787835","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"39afadc3-29a7-4961-b9eb-81e6cff8f25b","name":"39afadc3-29a7-4961-b9eb-81e6cff8f25b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"cc4d4c58-b152-41f0-b97e-dd193580ee19","name":"cc4d4c58-b152-41f0-b97e-dd193580ee19","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"e6e50ab9-3eae-4289-9ca9-43c771787835","name":"e6e50ab9-3eae-4289-9ca9-43c771787835","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"39afadc3-29a7-4961-b9eb-81e6cff8f25b","name":"39afadc3-29a7-4961-b9eb-81e6cff8f25b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -34,7 +34,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"sprMadrugaBattlePuloPraTras",
     "autoRecord":true,
     "backdropHeight":768,
@@ -70,15 +70,9 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cc4d4c58-b152-41f0-b97e-dd193580ee19","path":"sprites/sprMadrugaBattlePuloPraTras/sprMadrugaBattlePuloPraTras.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"7a24d0fc-5380-4c43-a13e-8cf7ced93ffb","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e6e50ab9-3eae-4289-9ca9-43c771787835","path":"sprites/sprMadrugaBattlePuloPraTras/sprMadrugaBattlePuloPraTras.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"da41e297-4391-4d0b-b9bc-c23f0165b0c9","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"39afadc3-29a7-4961-b9eb-81e6cff8f25b","path":"sprites/sprMadrugaBattlePuloPraTras/sprMadrugaBattlePuloPraTras.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"579d12b2-55f2-4568-890e-4c6348b40d9e","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"cc4d4c58-b152-41f0-b97e-dd193580ee19","path":"sprites/sprMadrugaBattlePuloPraTras/sprMadrugaBattlePuloPraTras.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"7a24d0fc-5380-4c43-a13e-8cf7ced93ffb","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"e6e50ab9-3eae-4289-9ca9-43c771787835","path":"sprites/sprMadrugaBattlePuloPraTras/sprMadrugaBattlePuloPraTras.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"da41e297-4391-4d0b-b9bc-c23f0165b0c9","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"39afadc3-29a7-4961-b9eb-81e6cff8f25b","path":"sprites/sprMadrugaBattlePuloPraTras/sprMadrugaBattlePuloPraTras.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"579d12b2-55f2-4568-890e-4c6348b40d9e","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

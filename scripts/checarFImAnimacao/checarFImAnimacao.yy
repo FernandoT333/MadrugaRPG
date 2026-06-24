@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"checarFImAnimacao",
   "isCompatibility":false,
   "isDnD":false,

@@ -1,15 +1,17 @@
 {
-  "$GMSound":"",
+  "$GMSound":"v2",
   "%Name":"sfxLancando",
   "audioGroupId":{
     "name":"sfxBattle",
     "path":"audiogroups/sfxBattle",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "channelFormat":1,
   "compression":2,
+  "compressionQuality":4,
   "conversionMode":0,
   "duration":0.135147,
+  "exportDir":"",
   "name":"sfxLancando",
   "parent":{
     "name":"Battle",
@@ -20,6 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"sfxLancando.wav",
-  "type":1,
   "volume":1.0,
 }

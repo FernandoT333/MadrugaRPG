@@ -1,5 +1,5 @@
 {
-  "$GMSequence":"",
+  "$GMSequence":"v1",
   "%Name":"ctsIntro",
   "autoRecord":true,
   "backdropHeight":160,
@@ -34,6 +34,8 @@
   "playbackSpeedType":0,
   "resourceType":"GMSequence",
   "resourceVersion":"2.0",
+  "seqHeight":73.5,
+  "seqWidth":99.0,
   "showBackdrop":true,
   "showBackdropImage":false,
   "spriteId":null,

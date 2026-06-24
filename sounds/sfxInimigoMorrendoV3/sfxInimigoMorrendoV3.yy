@@ -1,15 +1,17 @@
 {
-  "$GMSound":"",
+  "$GMSound":"v2",
   "%Name":"sfxInimigoMorrendoV3",
   "audioGroupId":{
     "name":"sfxBattle",
     "path":"audiogroups/sfxBattle",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "channelFormat":1,
   "compression":2,
+  "compressionQuality":4,
   "conversionMode":0,
   "duration":2.977959,
+  "exportDir":"",
   "name":"sfxInimigoMorrendoV3",
   "parent":{
     "name":"Battle",
@@ -20,6 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"sfxInimigoMorrendoV3.mp3",
-  "type":1,
   "volume":1.0,
 }

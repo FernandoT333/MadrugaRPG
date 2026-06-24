@@ -1,7 +1,7 @@
 function exibirSpriteInimigoOW(){
 		var direcaoAtual = 0;
 		
-		var parado = (global.pause || global.obtendoItem || global.emTransicao || !emMovimento);
+		var parado = (global.pause || global.obtendoItem || global.emDialogo || global.emTransicao || !emMovimento);
 		
 		if (direcao > 337.5 || direcao < 22.5) {
 		    direcaoAtual = DirecoesEnum.Leste;

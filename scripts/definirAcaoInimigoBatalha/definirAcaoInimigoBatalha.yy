@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"definirAcaoInimigoBatalha",
   "isCompatibility":false,
   "isDnD":false,

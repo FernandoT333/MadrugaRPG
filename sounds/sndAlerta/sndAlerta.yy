@@ -1,15 +1,17 @@
 {
-  "$GMSound":"",
+  "$GMSound":"v2",
   "%Name":"sndAlerta",
   "audioGroupId":{
     "name":"sfxEfeitos",
     "path":"audiogroups/sfxEfeitos",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "channelFormat":1,
   "compression":2,
+  "compressionQuality":4,
   "conversionMode":0,
   "duration":1.333333,
+  "exportDir":"",
   "name":"sndAlerta",
   "parent":{
     "name":"Efeitos",
@@ -20,6 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"sndAlerta.wav",
-  "type":1,
   "volume":1.0,
 }

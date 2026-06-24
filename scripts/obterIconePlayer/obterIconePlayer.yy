@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"obterIconePlayer",
   "isCompatibility":false,
   "isDnD":false,

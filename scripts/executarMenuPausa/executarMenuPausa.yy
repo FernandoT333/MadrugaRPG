@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"executarMenuPausa",
   "isCompatibility":false,
   "isDnD":false,

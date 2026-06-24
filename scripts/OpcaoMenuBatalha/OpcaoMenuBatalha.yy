@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"OpcaoMenuBatalha",
   "isCompatibility":false,
   "isDnD":false,

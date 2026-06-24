@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"olharPlayerInimigoOW",
   "isCompatibility":false,
   "isDnD":false,

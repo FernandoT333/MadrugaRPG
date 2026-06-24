@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"interagirEmTela",
   "isCompatibility":false,
   "isDnD":false,

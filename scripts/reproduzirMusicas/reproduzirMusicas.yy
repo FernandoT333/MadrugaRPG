@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"reproduzirMusicas",
   "isCompatibility":false,
   "isDnD":false,

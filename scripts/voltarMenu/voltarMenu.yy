@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"voltarMenu",
   "isCompatibility":false,
   "isDnD":false,

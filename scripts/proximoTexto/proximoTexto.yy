@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"proximoTexto",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"proximoTexto",
+  "parent":{
+    "name":"UI",
+    "path":"folders/Scripts/Overworld/UI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

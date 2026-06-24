@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"renderOpcoesMenuPrincipal",
   "isCompatibility":false,
   "isDnD":false,

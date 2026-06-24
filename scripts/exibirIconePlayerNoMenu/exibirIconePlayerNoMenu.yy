@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"exibirIconePlayerNoMenu",
   "isCompatibility":false,
   "isDnD":false,

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"iniciarDialogo",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"iniciarDialogo",
+  "parent":{
+    "name":"NPC",
+    "path":"folders/Scripts/Overworld/NPC.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"checandoAnimacaoAlerta",
   "isCompatibility":false,
   "isDnD":false,

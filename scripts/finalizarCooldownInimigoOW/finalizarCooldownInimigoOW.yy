@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"finalizarCooldownInimigoOW",
   "isCompatibility":false,
   "isDnD":false,

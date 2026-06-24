@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"alinharCamera",
   "isCompatibility":false,
   "isDnD":false,

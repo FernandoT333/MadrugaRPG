@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"colidirEscada",
   "isCompatibility":false,
   "isDnD":false,

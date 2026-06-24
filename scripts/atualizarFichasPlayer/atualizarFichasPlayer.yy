@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"atualizarFichasPlayer",
   "isCompatibility":false,
   "isDnD":false,

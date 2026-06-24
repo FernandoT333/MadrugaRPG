@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"checarColisaoBastaoFogoComInimigo",
   "isCompatibility":false,
   "isDnD":false,

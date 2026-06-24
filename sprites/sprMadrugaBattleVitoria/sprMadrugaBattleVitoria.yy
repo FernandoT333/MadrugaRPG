@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprMadrugaBattleVitoria",
   "bboxMode":0,
   "bbox_bottom":47,
@@ -12,25 +12,25 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"75c9aa33-6be5-4c91-b338-9b68c8784cab","name":"75c9aa33-6be5-4c91-b338-9b68c8784cab","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"ad36e5fd-f020-49fa-9151-e05db711460d","name":"ad36e5fd-f020-49fa-9151-e05db711460d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"5de541cb-a0ef-42ac-bf80-3d8b2eebac67","name":"5de541cb-a0ef-42ac-bf80-3d8b2eebac67","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"d0cb403e-c96a-4c4c-974c-836660121c76","name":"d0cb403e-c96a-4c4c-974c-836660121c76","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"767a2c44-aeb3-48ee-85bf-e81c8383035c","name":"767a2c44-aeb3-48ee-85bf-e81c8383035c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"48b64116-8e02-4351-ae88-a6d74156e689","name":"48b64116-8e02-4351-ae88-a6d74156e689","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"a15c3b8a-12f8-405a-9280-c38dbbfeb7a4","name":"a15c3b8a-12f8-405a-9280-c38dbbfeb7a4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"43bbbc1e-125a-4697-93b0-39ffede1be85","name":"43bbbc1e-125a-4697-93b0-39ffede1be85","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"97f6be50-319c-438a-a499-02a855cc9ca6","name":"97f6be50-319c-438a-a499-02a855cc9ca6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"0a486afd-0e7c-4b8a-8f99-f84c391a4d6d","name":"0a486afd-0e7c-4b8a-8f99-f84c391a4d6d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"45127e09-831c-4bf0-912c-2dc8b8e416f0","name":"45127e09-831c-4bf0-912c-2dc8b8e416f0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"e5b55196-fb91-47f1-9ba3-7c3cc480e7b5","name":"e5b55196-fb91-47f1-9ba3-7c3cc480e7b5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"3d11f3ac-3f13-441c-b146-67902b1624e3","name":"3d11f3ac-3f13-441c-b146-67902b1624e3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"36a9f978-212a-4724-829f-69b1acc56a82","name":"36a9f978-212a-4724-829f-69b1acc56a82","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"85579237-707d-45e2-ac20-0bf9bf0ec53a","name":"85579237-707d-45e2-ac20-0bf9bf0ec53a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"3f8540bd-1c37-4962-b769-986ff4b82246","name":"3f8540bd-1c37-4962-b769-986ff4b82246","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"368c6456-9599-42a3-be0d-84af2a433d04","name":"368c6456-9599-42a3-be0d-84af2a433d04","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"cfb9e197-4038-4b6d-9baa-1449ba34b255","name":"cfb9e197-4038-4b6d-9baa-1449ba34b255","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"e4846b89-0540-4f23-92c9-ae13875cdd46","name":"e4846b89-0540-4f23-92c9-ae13875cdd46","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"75c9aa33-6be5-4c91-b338-9b68c8784cab","name":"75c9aa33-6be5-4c91-b338-9b68c8784cab","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ad36e5fd-f020-49fa-9151-e05db711460d","name":"ad36e5fd-f020-49fa-9151-e05db711460d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"5de541cb-a0ef-42ac-bf80-3d8b2eebac67","name":"5de541cb-a0ef-42ac-bf80-3d8b2eebac67","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"d0cb403e-c96a-4c4c-974c-836660121c76","name":"d0cb403e-c96a-4c4c-974c-836660121c76","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"767a2c44-aeb3-48ee-85bf-e81c8383035c","name":"767a2c44-aeb3-48ee-85bf-e81c8383035c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"48b64116-8e02-4351-ae88-a6d74156e689","name":"48b64116-8e02-4351-ae88-a6d74156e689","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a15c3b8a-12f8-405a-9280-c38dbbfeb7a4","name":"a15c3b8a-12f8-405a-9280-c38dbbfeb7a4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"43bbbc1e-125a-4697-93b0-39ffede1be85","name":"43bbbc1e-125a-4697-93b0-39ffede1be85","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"97f6be50-319c-438a-a499-02a855cc9ca6","name":"97f6be50-319c-438a-a499-02a855cc9ca6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0a486afd-0e7c-4b8a-8f99-f84c391a4d6d","name":"0a486afd-0e7c-4b8a-8f99-f84c391a4d6d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"45127e09-831c-4bf0-912c-2dc8b8e416f0","name":"45127e09-831c-4bf0-912c-2dc8b8e416f0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"e5b55196-fb91-47f1-9ba3-7c3cc480e7b5","name":"e5b55196-fb91-47f1-9ba3-7c3cc480e7b5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"3d11f3ac-3f13-441c-b146-67902b1624e3","name":"3d11f3ac-3f13-441c-b146-67902b1624e3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"36a9f978-212a-4724-829f-69b1acc56a82","name":"36a9f978-212a-4724-829f-69b1acc56a82","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"85579237-707d-45e2-ac20-0bf9bf0ec53a","name":"85579237-707d-45e2-ac20-0bf9bf0ec53a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"3f8540bd-1c37-4962-b769-986ff4b82246","name":"3f8540bd-1c37-4962-b769-986ff4b82246","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"368c6456-9599-42a3-be0d-84af2a433d04","name":"368c6456-9599-42a3-be0d-84af2a433d04","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"cfb9e197-4038-4b6d-9baa-1449ba34b255","name":"cfb9e197-4038-4b6d-9baa-1449ba34b255","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"e4846b89-0540-4f23-92c9-ae13875cdd46","name":"e4846b89-0540-4f23-92c9-ae13875cdd46","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -50,7 +50,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"sprMadrugaBattleVitoria",
     "autoRecord":true,
     "backdropHeight":768,
@@ -86,63 +86,25 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"75c9aa33-6be5-4c91-b338-9b68c8784cab","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"08eb230d-dbbb-402a-b249-5443f0c00dc6","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ad36e5fd-f020-49fa-9151-e05db711460d","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"8d6571a7-41ea-4339-b1dc-b0e6d342b571","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5de541cb-a0ef-42ac-bf80-3d8b2eebac67","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"a5463c7b-a9a6-4c41-97ef-cec7f0edd3fb","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d0cb403e-c96a-4c4c-974c-836660121c76","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"7c233f66-c38a-45fa-aed7-af3920dbc256","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"767a2c44-aeb3-48ee-85bf-e81c8383035c","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"521064bf-4477-499b-a41a-62ea23d7c92a","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"48b64116-8e02-4351-ae88-a6d74156e689","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d06be466-a157-4f43-abbb-a6fea1c16166","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a15c3b8a-12f8-405a-9280-c38dbbfeb7a4","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"10168c08-0fed-4f1a-8de5-d6dc3d28f67e","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"43bbbc1e-125a-4697-93b0-39ffede1be85","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"34f005cd-5072-4860-962f-eab3ee827c64","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"97f6be50-319c-438a-a499-02a855cc9ca6","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"de39adff-c7ec-4f05-b3ca-44cbae4c1123","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0a486afd-0e7c-4b8a-8f99-f84c391a4d6d","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"a250f4b9-186e-4e1a-8816-5f20ca0c56da","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"45127e09-831c-4bf0-912c-2dc8b8e416f0","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"4cb8a6c9-aaa1-4332-a5b9-3b07298a56ce","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e5b55196-fb91-47f1-9ba3-7c3cc480e7b5","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"1ca8b3b4-56df-420e-98b5-38dad9082a81","IsCreationKey":false,"Key":11.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3d11f3ac-3f13-441c-b146-67902b1624e3","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d95ac2c4-f074-4760-99dc-e3c60f5708b8","IsCreationKey":false,"Key":12.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"36a9f978-212a-4724-829f-69b1acc56a82","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"156a167f-261d-4e35-af9e-d218d984a5b2","IsCreationKey":false,"Key":13.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"85579237-707d-45e2-ac20-0bf9bf0ec53a","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"f74167b8-eb16-4d35-9f30-73ae3be917f4","IsCreationKey":false,"Key":14.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3f8540bd-1c37-4962-b769-986ff4b82246","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"219d2c72-4292-4a9f-868e-9035c2ffe284","IsCreationKey":false,"Key":15.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"368c6456-9599-42a3-be0d-84af2a433d04","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"1d3a65f3-cdce-4977-9758-528c9749c48e","IsCreationKey":false,"Key":16.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cfb9e197-4038-4b6d-9baa-1449ba34b255","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"edb6cbb0-cb74-4fa9-9f26-578db02e85d3","IsCreationKey":false,"Key":17.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e4846b89-0540-4f23-92c9-ae13875cdd46","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"dd1abc52-13eb-40e5-a6dc-14a062b93d99","IsCreationKey":false,"Key":18.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"75c9aa33-6be5-4c91-b338-9b68c8784cab","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"08eb230d-dbbb-402a-b249-5443f0c00dc6","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"ad36e5fd-f020-49fa-9151-e05db711460d","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"8d6571a7-41ea-4339-b1dc-b0e6d342b571","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"5de541cb-a0ef-42ac-bf80-3d8b2eebac67","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"a5463c7b-a9a6-4c41-97ef-cec7f0edd3fb","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"d0cb403e-c96a-4c4c-974c-836660121c76","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"7c233f66-c38a-45fa-aed7-af3920dbc256","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"767a2c44-aeb3-48ee-85bf-e81c8383035c","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"521064bf-4477-499b-a41a-62ea23d7c92a","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"48b64116-8e02-4351-ae88-a6d74156e689","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"d06be466-a157-4f43-abbb-a6fea1c16166","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"a15c3b8a-12f8-405a-9280-c38dbbfeb7a4","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"10168c08-0fed-4f1a-8de5-d6dc3d28f67e","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"43bbbc1e-125a-4697-93b0-39ffede1be85","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"34f005cd-5072-4860-962f-eab3ee827c64","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"97f6be50-319c-438a-a499-02a855cc9ca6","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"de39adff-c7ec-4f05-b3ca-44cbae4c1123","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"0a486afd-0e7c-4b8a-8f99-f84c391a4d6d","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"a250f4b9-186e-4e1a-8816-5f20ca0c56da","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"45127e09-831c-4bf0-912c-2dc8b8e416f0","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"4cb8a6c9-aaa1-4332-a5b9-3b07298a56ce","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"e5b55196-fb91-47f1-9ba3-7c3cc480e7b5","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"1ca8b3b4-56df-420e-98b5-38dad9082a81","IsCreationKey":false,"Key":11.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"3d11f3ac-3f13-441c-b146-67902b1624e3","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"d95ac2c4-f074-4760-99dc-e3c60f5708b8","IsCreationKey":false,"Key":12.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"36a9f978-212a-4724-829f-69b1acc56a82","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"156a167f-261d-4e35-af9e-d218d984a5b2","IsCreationKey":false,"Key":13.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"85579237-707d-45e2-ac20-0bf9bf0ec53a","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"f74167b8-eb16-4d35-9f30-73ae3be917f4","IsCreationKey":false,"Key":14.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"3f8540bd-1c37-4962-b769-986ff4b82246","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"219d2c72-4292-4a9f-868e-9035c2ffe284","IsCreationKey":false,"Key":15.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"368c6456-9599-42a3-be0d-84af2a433d04","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"1d3a65f3-cdce-4977-9758-528c9749c48e","IsCreationKey":false,"Key":16.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"cfb9e197-4038-4b6d-9baa-1449ba34b255","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"edb6cbb0-cb74-4fa9-9f26-578db02e85d3","IsCreationKey":false,"Key":17.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"e4846b89-0540-4f23-92c9-ae13875cdd46","path":"sprites/sprMadrugaBattleVitoria/sprMadrugaBattleVitoria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"dd1abc52-13eb-40e5-a6dc-14a062b93d99","IsCreationKey":false,"Key":18.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

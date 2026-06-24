@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"carregarGruposAudio",
   "isCompatibility":false,
   "isDnD":false,

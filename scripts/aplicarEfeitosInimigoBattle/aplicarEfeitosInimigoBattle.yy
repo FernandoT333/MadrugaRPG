@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"aplicarEfeitosInimigoBattle",
   "isCompatibility":false,
   "isDnD":false,

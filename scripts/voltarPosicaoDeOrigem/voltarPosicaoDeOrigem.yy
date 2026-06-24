@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"voltarPosicaoDeOrigem",
   "isCompatibility":false,
   "isDnD":false,

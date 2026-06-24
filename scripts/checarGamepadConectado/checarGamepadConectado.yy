@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"checarGamepadConectado",
   "isCompatibility":false,
   "isDnD":false,

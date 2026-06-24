@@ -1,8 +1,9 @@
 function moverPlayerOW() {
+		var emDialogo = global.emDialogo;
 		var obtendoItem = global.obtendoItem;
 		var emTransicao = global.emTransicao;
 		
-		if (!obtendoItem && !emTransicao) {
+		if (!obtendoItem && !emDialogo && !emTransicao) {
 			var emMovimento = (baixo || cima || direita || esquerda);
 			
 			if (emMovimento) {

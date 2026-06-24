@@ -11,7 +11,9 @@ function checarPlayerProximo() {
 		place_meeting(x, y - distancia, objPlayerOW) 
 	) {
 	    permiteAbertura = true;
+	    permiteIniciarDialogo = true;
 	} else {
 	    permiteAbertura = false;
+	    permiteIniciarDialogo = false;
 	}
 }
